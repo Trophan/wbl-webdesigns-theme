@@ -1,0 +1,58 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "d51b6170cedcfa61be91",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\User\\Desktop\\wbl-webdesigns\\wbl-webdesigns\\build\\static",
+  "assetsByChunkName": {
+    "wbl-webdesigns": "wbl-webdesigns.module.js"
+  },
+  "assets": [
+    {
+      "name": "wbl-webdesigns.module.js",
+      "size": 4950953,
+      "chunks": [
+        "wbl-webdesigns"
+      ],
+      "chunkNames": [
+        "wbl-webdesigns"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "wbl-webdesigns": {
+      "chunks": [
+        "wbl-webdesigns"
+      ],
+      "assets": [
+        "wbl-webdesigns.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "wbl-webdesigns": {
+      "chunks": [
+        "wbl-webdesigns"
+      ],
+      "assets": [
+        "wbl-webdesigns.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
